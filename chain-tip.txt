@@ -1,1 +1,1 @@
-{"chain_hash": "0d8308445ec5da6e8979e04ed242b52400f0bdd31d203eb6c752ebd47549d901", "chained_at_utc": "2026-06-29T01:20:42.591491+00:00", "host": "PAI", "sequence": 27825, "snapshot_taken_at_utc": "2026-06-29T01:30:03.048465+00:00"}
+{"chain_hash": "4d3dc36f8702c5df38441334532af71a4f6d49d5d06152ec4cf911c66c97ff1a", "chained_at_utc": "2026-06-30T01:20:41.904664+00:00", "host": "PAI", "sequence": 28667, "snapshot_taken_at_utc": "2026-06-30T01:30:03.769518+00:00"}
